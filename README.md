@@ -1,1 +1,3 @@
-ola 
+-olá,meu nome e pablo sou estudante da escola leonardo vilas boas,estou na 1F serie do ensino médio
+-estou aprendendo a utilizar o alura nas aulas de tecnologia
+-gosto de video game 
