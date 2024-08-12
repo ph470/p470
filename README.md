@@ -1,3 +1,4 @@
--olá,meu nome e pablo sou estudante da escola leonardo vilas boas,estou na 1F serie do ensino médio
--estou aprendendo a utilizar o alura nas aulas de tecnologia
--gosto de video game 
+- olá,meu nome e Pablo sou estudante da escola leonardo vilas boas,estou na 1F serie do ensino médio
+- estou aprendendo a utilizar o alura nas aulas de tecnologia
+- gosto de video game
+- ![](https://media1.tenor.com/m/CInh77x8tkMAAAAC/wazzup-meme.gif)
